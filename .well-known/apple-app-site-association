@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "SRKJ5T496V.com.engagifii.engagifii",
+                "paths": ["*"]
+            },
+            {
+                "appID": "H386P4UH72.com.engagifii.engagifii",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
